@@ -132,8 +132,9 @@ If you are contributing in one of the ways mentioned above (or in some other cap
 
 * trashgomi - Translation, Repo Owner
 * Kobold - Translation
-* WriterForce6XV - Localisation, Playtesting
+* WriterForce6XV - Localization, Playtesting
 * folley - Typesetting
+* AnonymousJS - Localization
 * 0x2F - Playtesting
 * RubyRedRose - Playtesting
 * AnonymousJS - Localization
